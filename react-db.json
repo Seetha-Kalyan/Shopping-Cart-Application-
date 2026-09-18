@@ -1,0 +1,150 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "productName": "iphone",
+      "price": 120000,
+      "quantity": 0
+    },
+    {
+      "id": "2",
+      "productName": "Sony camera",
+      "price": 90000,
+      "quantity": 0
+    },
+    {
+      "id": "3",
+      "productName": "Rolex watch",
+      "price": 20000,
+      "quantity": 0
+    },
+    {
+      "id": "4",
+      "productName": "Sumsung QLED TV",
+      "price": 40000,
+      "quantity": 0
+    },
+    {
+      "id": "5",
+      "productName": "Sony AC",
+      "price": 60000,
+      "quantity": 0
+    },
+    {
+      "id": "6",
+      "productName": "Samsung Washing Machine",
+      "price": 19000,
+      "quantity": 0
+    }
+  ],
+  "Credentials": [
+    {
+      "id": "1",
+      "email": "kalyanseetha007@gmail.com",
+      "password": "Kalyan@2306"
+    },
+    {
+      "id": "2",
+      "email": "vanisrisurada3@gmail.com",
+      "password": "VaniKalyan@2306"
+    },
+    {
+      "id": "3",
+      "email": "jagadeeshseetha921@gmail.com",
+      "password": "Jagadeesh@2311"
+    },
+    {
+      "email": "kalyanseetha007@gmail.com",
+      "fullname": "kalyan",
+      "mobile": "8187808316",
+      "gender": "male",
+      "DOB": "2005-01-23",
+      "country": "India",
+      "password": "Kalyan@2306",
+      "confirm_password": "Kalyan@2306",
+      "receiveNewsLetters": true,
+      "id": "4"
+    },
+    {
+      "email": "kalyanseetha007@gmail.com",
+      "fullname": "kalyan",
+      "mobile": "8187808316",
+      "gender": "male",
+      "DOB": "2005-01-23",
+      "country": "India",
+      "password": "Kalyan@2306",
+      "confirm_password": "Kalyan@2306",
+      "receiveNewsLetters": true,
+      "id": "5"
+    },
+    {
+      "email": "kalyanseetha007@gmail.com",
+      "fullname": "kalyan",
+      "mobile": "8187808316",
+      "gender": "male",
+      "DOB": "2005-01-23",
+      "country": "India",
+      "password": "Kalyan@2306",
+      "confirm_password": "Kalyan@2306",
+      "receiveNewsLetters": true,
+      "id": "6"
+    }
+  ],
+  "Customers": [
+    {
+      "name": "kalyan",
+      "location": {
+        "city": "banglore"
+      },
+      "image": "https://picsum.photos/id/1020/50",
+      "gender": "male",
+      "mobile": "9346690264",
+      "email": "kalyanseetha007@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "jagadeesh seetha",
+      "location": {
+        "city": "dheharadun"
+      },
+      "image": "https://picsum.photos/id/1050/50",
+      "gender": "male",
+      "mobile": "8179738143",
+      "email": "jagadeeshseetha921@gmail.com",
+      "id": "2"
+    },
+    {
+      "name": "vani surada",
+      "location": {
+        "city": "hyderabad"
+      },
+      "image": "https://picsum.photos/id/1005/50",
+      "gender": "female",
+      "mobile": "7670808059",
+      "email": "vaniseetha2306@gmail.com",
+      "id": "3"
+    },
+    {
+      "name": "gouri surada",
+      "location": {
+        "city": "Banglore"
+      },
+      "image": "https://picsum.photos/id/1010/70",
+      "gender": "female",
+      "mobile": "9346645935",
+      "email": "gourisurada1012000@gmail.com",
+      "id": "5"
+    },
+    {
+      "name": "Suresh",
+      "location": {
+        "city": "vizag"
+      },
+      "image": "https://picsum.photos/id/1025/80",
+      "gender": "male",
+      "mobile": "7670690264",
+      "email": "venkatsuresh007@gmail.com",
+      "id": "6"
+    }
+  ]
+}
